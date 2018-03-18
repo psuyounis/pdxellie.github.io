@@ -1,6 +1,6 @@
 ---
 layout: page
-title: second Page
+title: Another Page
 ---
 
 This is another page. It is automatically added to the menu with a link
