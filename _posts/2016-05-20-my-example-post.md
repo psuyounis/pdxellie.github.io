@@ -11,13 +11,13 @@ layout: post
 
 
 
-# human_choice = "rock" or "paper" or "scissors" computer_choice = "rock" or "paper" or "scissors"
+## human_choice = "rock" or "paper" or "scissors" computer_choice = "rock" or "paper" or "scissors"
 
  1. INSERT HERE YOU CHOICE -- >
  2. human_choice = "paper"
 
 
-## INSERT HERE THE COMPUTER'S CHOICE -- >
+## INSERT HERE THE COMPUTER'S CHOICE
 
 computer_choice = "rock"
 
@@ -69,6 +69,7 @@ Here is a list of what i should have done to be successful in this project;
 
 
 ----------
+
 
 
 
