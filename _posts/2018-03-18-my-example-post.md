@@ -3,23 +3,19 @@ layout: post
 ---
 
 
-## My first and last Python project 
+# My first and last Python project 
 
-**Here is my ***first and last*** Python code project.** 
+## **Here is my ***first and last*** Python code project.**
 
 ![enter image description here](http://socialmarketingfella.com/wp-content/uploads/2017/06/fall.png)
 
+## This is the list of items I added
 
-
-human_choice = "rock" or "paper" or "scissors" computer_choice = "rock" or "paper" or "scissors"
-
- 1. INSERT HERE YOU CHOICE -- >
- 2. human_choice = "paper"
-
-
-INSERT HERE THE COMPUTER'S CHOICE
-
-computer_choice = "rock"
+ 1.  human_choice = "rock" or "paper" or "scissors" computer_choice = "rock" or "paper" or "scissors"
+ 2. INSERT HERE YOU CHOICE
+ 3. human_choice = "paper"
+ 4. INSERT HERE THE COMPUTER'S CHOICE
+ 5. computer_choice = "rock"
 
 
 ----------
@@ -28,19 +24,18 @@ computer_choice = "rock"
 ----------
 
 
-#DRAW -- >
+##DRAW -- >
 
  - if human_choice == 'rock' and computer_choice == 'rock':
   print("This is draw!")
   
-
-
-
-if human_choice == 'paper' and computer_choice == 'paper':
+ - if human_choice == 'paper' and computer_choice == 'paper':
+  print("This is draw!")
+  
+ - if human_choice == 'scissors' and computer_choice == 'scissors':
   print("This is draw!")
 
-if human_choice == 'scissors' and computer_choice == 'scissors':
-  print("This is draw!")
+
 
 
 
@@ -69,6 +64,7 @@ Here is a list of what i should have done to be successful in this project;
 
 
 ----------
+
 
 
 
