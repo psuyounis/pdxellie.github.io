@@ -4,9 +4,7 @@ layout: post
 
 
 Description
-Keep visitors on your website longer and get more traffic on your website by inviting your visitors to read random posts! It’s easy! Just install the randomPost plugin, and select the random URL slug you want to use. This URL slug will redirect your users to a random post of yours! We recommend using the word “random” as your URL slug, but the option exists to use any slug you’d like. Once cosdnfigured, add the new URL with the slug to your menu as a custom link. That alone will invite visitors to stick around.
-
-To add on top of that, we’ve added a configurable hotkey! If a visitor presses R on their keyboard, it’ll automatically load a random post! You can change the hotkey to be any key you’d like. To add a little more fun to your website, put a notice telling visitors to “Press R to read a random post”.
+Most people have used performance enhancement drugs in one way or another. Most us drink coffee, eat low carb foods and supplement when we are low on a mineral. We ingest heart medication to reduce the chances of a stroke, we take insulin to control our glucose levels, and we drink vitamin enhanced milk. Just like how every athlete uses enhancements to improve their bodies. Kenyan athletes train at a high attitude to improve their oxygen-carrying capacity ("Why Top Athletes Are Setting Base in Iten").
 
 Features:
 
