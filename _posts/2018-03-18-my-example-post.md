@@ -3,7 +3,7 @@ layout: post
 ---
 
 
-# My first and last Python project 
+## My first and last Python project 
 
 **Here is my ***first and last*** Python code project.** 
 
@@ -11,13 +11,13 @@ layout: post
 
 
 
-## human_choice = "rock" or "paper" or "scissors" computer_choice = "rock" or "paper" or "scissors"
+human_choice = "rock" or "paper" or "scissors" computer_choice = "rock" or "paper" or "scissors"
 
  1. INSERT HERE YOU CHOICE -- >
  2. human_choice = "paper"
 
 
-## INSERT HERE THE COMPUTER'S CHOICE
+INSERT HERE THE COMPUTER'S CHOICE
 
 computer_choice = "rock"
 
