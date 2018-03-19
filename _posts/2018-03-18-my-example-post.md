@@ -5,7 +5,7 @@ layout: post
 
 # My first and last Python project 
 
-## **Here is my ***first and last*** Python code project.**
+## **Here is my ***first and last*** Python code project.
 
 ![enter image description here](http://socialmarketingfella.com/wp-content/uploads/2017/06/fall.png)
 
